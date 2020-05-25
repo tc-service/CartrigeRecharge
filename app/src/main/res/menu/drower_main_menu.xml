@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn= "navigation_view" >
+    <group android:checkableBehavior="single">
+        <item android:title="@string/HP"
+            android:id="@+id/id_hp"
+            android:icon="@drawable/ic_hp"/>
+
+        <item android:title="@string/Can"
+            android:id="@+id/id_can"
+            android:icon="@drawable/ic_can"/>
+
+        <item android:title="@string/Kyo"
+            android:id="@+id/id_kyo"
+            android:icon="@drawable/ic_kyo"/>
+
+        <item android:title="@string/Sam"
+            android:id="@+id/id_Sam"
+            android:icon="@drawable/ic_sam"/>
+
+
+
+    </group>
+</menu>
