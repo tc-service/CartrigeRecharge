@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CartrigeRecharge</string>
+    <string name="HP">  Hewlett-Packard</string>
+    <string name="Can">  Canon</string>
+    <string name="Kyo">  Kyocera</string>
+    <string name="Sam">  Samsung</string>
+
+</resources>
