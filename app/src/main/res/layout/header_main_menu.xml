@@ -8,8 +8,8 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="172dp"
-        android:layout_height="108dp"
+        android:layout_width="156dp"
+        android:layout_height="92dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
@@ -17,7 +17,7 @@
         android:text="Справочник по заправке картриджей"
         android:textAlignment="center"
         android:textColor="@android:color/widget_edittext_dark"
-        android:textSize="10sp"
+        android:textSize="8sp"
         android:textStyle="bold"
         app:autoSizeTextType="uniform"
         app:layout_constraintBottom_toBottomOf="parent"

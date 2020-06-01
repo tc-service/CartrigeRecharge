@@ -2,7 +2,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     tools:showIn= "navigation_view" >
-    <group android:checkableBehavior="single">
+    <group android:title="single">
         <item android:title="@string/HP"
             android:id="@+id/id_hp"
             android:icon="@drawable/ic_hp"/>
@@ -19,7 +19,6 @@
             android:id="@+id/id_Sam"
             android:icon="@drawable/ic_sam"/>
 
-
-
     </group>
+   
 </menu>
